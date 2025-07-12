@@ -14,7 +14,7 @@ This analysis aims to investigates the relationship between employee attrition a
 
 - The primary goal of this analysis is to gain actionable insights of how different employee attributes and workplace factors influence the likelihood of attrition.
 
-▁▂▃▄▅▆▇█ ░▒▓▓▒░ █▇▆▅▄▃▂▁
+---
 
 
 ❓ Data Science Questions
