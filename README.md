@@ -3,7 +3,7 @@ This project analyzes the IBM Employee Attrition dataset using exploratory, desc
 
 <p align="center">• ────── ✧ ────── •</p>
 
-📊 Business Case
+##📊 Business Case
 
 **Executive Summary**
 
@@ -14,10 +14,8 @@ This analysis aims to investigates the relationship between employee attrition a
 
 - The primary goal of this analysis is to gain actionable insights of how different employee attributes and workplace factors influence the likelihood of attrition.
 
----
 
-
-❓ Data Science Questions
+##❓ Data Science Questions
 
 **Exploratory analysis**
 
@@ -53,7 +51,6 @@ give code for this
 9. What is the mechanism by which BusinessTravel, JobInvolvement, and TrainingTimesLastYear affect the probability of leaving? 
 
 
----
 
 ## 🧠 Summary
 
@@ -61,7 +58,6 @@ give code for this
 
 - Based on the analysis, this large company's primary problem is high employee attrition, particularly in specific job roles like Sales Representatives, Laboratory Technicians, Human Resources, Sales Executives, and Research Scientists. This attrition is driven by a combination of factors.A critical finding is the significant impact of overtime. Employees who work excessive overtime are more than twice as likely to leave, indicating severe burnout and work-life balance issues. This is especially problematic for male employees, who show a steeper decline in attrition as work-life balance improves. The analysis also highlights that lower base salaries are a critical driver of attrition, even more so than salary hikes. Employees earning between RM2,000 and RM3,000 are notably more likely to leave.Furthermore, job involvement is a another factor. Employees with low job involvement (scoring 1 or 2) are significantly more likely to leave, indicating a lack of connection or engagement with their roles. Business travel, especially frequent travel, also contributes to attrition, likely due to stress and an imbalance between work and personal life. Finally, a lack of training and development opportunities contributes to employees feeling stagnant and seeking opportunities elsewhere, particularly for those with less than two years tenure. Years since last promotion also significantly impacts an employee's decision to leave.According to Randstad Malaysia’s Employer Brand Research report, 24% of Malaysian workers believe that a lack of training opportunities and insufficient managerial support are key contributors to employee disengagement and attrition despite 85 per cent of respondents said that upskilling and re-skilling is important to them. Addressing these issues could help companies improve retention by focusing on career development and employee support (Randstad HR Trends 2023).To combat this, HR should implement targeted strategies such as strengthen Career Development. This is a crucial area. Create clear, transparent career pathways with opportunities for growth and promotion.The least problematic area for this company appears to be overall relationship satisfaction among employees. While some roles like Laboratory Technician show a slight dip, generally, employees report high satisfaction with their relationships at work. This indicates a positive and friendly work culture where individuals mostly get along.
 
----
 
 ## 📚 References
 
