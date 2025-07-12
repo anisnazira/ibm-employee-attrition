@@ -53,7 +53,7 @@ give code for this
 9. What is the mechanism by which BusinessTravel, JobInvolvement, and TrainingTimesLastYear affect the probability of leaving? 
 
 
-<p align="center">🤖 ────── Predictive Analysis ────── 🤖</p>
+---
 
 ## 🧠 Summary
 
@@ -63,7 +63,7 @@ give code for this
 
 ---
 
-**RESOURCES**
+## 📚 References
 
 1. Li Qi, Cheok Mui Yee, Benjamin Chan Yin Fah, The Role of Work-Life Balance in Enhancing Employee Loyalty. Accounting and Corporate Management (2024) Vol. 6: 43-47. DOI: http://dx.doi.org/10.23977/acccm.2024.060106.
 
