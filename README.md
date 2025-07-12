@@ -3,7 +3,7 @@ This project analyzes the IBM Employee Attrition dataset using exploratory, desc
 
 <p align="center">• ────── ✧ ────── •</p>
 
-##📊 Business Case
+## 📊 Business Case
 
 **Executive Summary**
 
@@ -14,8 +14,7 @@ This analysis aims to investigates the relationship between employee attrition a
 
 - The primary goal of this analysis is to gain actionable insights of how different employee attributes and workplace factors influence the likelihood of attrition.
 
-
-##❓ Data Science Questions
+## ❓ Data Science Questions
 
 **Exploratory analysis**
 
